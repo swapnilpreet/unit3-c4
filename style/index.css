@@ -1,0 +1,20 @@
+ 
+ #sidebar h3:hover{
+     cursor: pointer;
+ } 
+ #results >div{
+     display: flex;
+     border: 1px solid rgb(71, 61, 156);
+ }
+ #results >div >img{
+     height: 250px;
+     margin-top:20px;
+ }
+ div>img{
+     height: 100%;
+     width: 40%;
+ }
+ #results >div >h3{
+     text-align: center;
+     margin-left:50px
+ }
